@@ -11,6 +11,6 @@ This project was created to demonstrate the following changes in a React Native 
 
 ## Screenshot
 
-![Screenshot of the application](../linksdaily/assets/screenshot.jpg)
+![Screenshot of the application](/assets/screenshot.jpg)
 
 ## Student ID - 11024002
