@@ -6,7 +6,7 @@ This project was created to demonstrate the following changes in a React Native 
 
 - Change the background color of the `View` component.
 - The background view was changed to yellow
-- Display the text "My name is YourName" with "YourName" in bold.
+- Display the text "My name is YourName" with "Bernard" in bold.
 - Increase the font size of the text to 24.
 
 ## Screenshot
